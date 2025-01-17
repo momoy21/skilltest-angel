@@ -347,7 +347,7 @@
 </section>
 
 <!-- Blue Rectangle Section -->
-<section class="relative z-20 -mt-32">
+<section class="relative z-20 -mt-10">
     <div class="max-w-xl mx-auto px-4">
         <div class="bg-[#1e2f5c] shadow-xl mb-10 max-w-xl mx-auto">
             <h2 class="text-white text-xl sm:text-2xl font-bold text-center py-3 sm:py-4">
@@ -360,13 +360,6 @@
 <!-- Customer References Section -->
 <section class="relative bg-gray-100"><section class="relative bg-gray-100 py-10 sm:py-16">
     <div class="max-w-6xl mx-auto px-4">
-        <!-- Section Title -->
-        <div class="bg-[#1e2f5c] shadow-xl mb-10 max-w-xl mx-auto">
-            <h2 class="text-white text-xl sm:text-2xl font-bold text-center py-3 sm:py-4">
-                Cyber Command Customers Reference
-            </h2>
-        </div>
-
         <!-- Logo Grid -->
         <div class="grid grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8 md:gap-16 items-center justify-items-center py-8 sm:py-10">
             <!-- Customer Logos -->
